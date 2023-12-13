@@ -19,13 +19,7 @@ This project is a simple Sudoku game implemented in HTML, CSS, and JavaScript. T
 
 - `index.html`: The main HTML file containing the structure of the Sudoku game.
 - `style.css`: Cascading Style Sheets for styling the Sudoku game.
-- `script.js`: JavaScript file containing the game logic and backtracking algorithm.
-
-## Files
-
-- `sudoku.js`: JavaScript file implementing the backtracking algorithm and game logic.
-- `style.css`: Cascading Style Sheets for styling the game interface.
-- `index.html`: Main HTML file defining the structure of the Sudoku game.
+- `script.js`: JavaScript file containing the game logic.
 
 ## Contributors
 
