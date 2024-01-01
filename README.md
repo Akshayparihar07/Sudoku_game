@@ -10,7 +10,7 @@ This project is a simple Sudoku game implemented in HTML, CSS, and JavaScript. T
 
 ## How to Play
 
-1. Open the `index.html` file in a web browser or click on this link 👉🏻 https://akshayparihar07.github.io/Sudoku_game/.
+1. Open the `index.html` file in a web browser or click on this link 👉🏻 (https://rb.gy/3ok0zl)
 2. Click on an empty tile in the Sudoku board.
 3. Select a number from the digits section to place on the selected tile.
 4. If the selected number is valid according to Sudoku rules, it will be placed on the tile. Otherwise, an error count will be incremented.
