@@ -21,8 +21,8 @@ This project is a simple Sudoku game implemented in HTML, CSS, and JavaScript. T
 - `style.css`: Cascading Style Sheets for styling the Sudoku game.
 - `script.js`: JavaScript file containing the game logic.
 
-## Contributors
+## Author
 
-- Akshay Parihar
+ [Akshay Parihar](https://github.com/Akshayparihar07)
 
 Feel free to contribute or report issues. Happy Sudoku playing!
