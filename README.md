@@ -1,10 +1,10 @@
 # Sudoku Game
-This project is a simple Sudoku game implemented in HTML, CSS, and JavaScript. The game includes a user interface to play Sudoku, and the backtracking algorithm is used to solve the Sudoku puzzle.
+This project is a Sudoku game implemented in HTML, CSS, and JavaScript. The game includes a user interface to play Sudoku, and the algorithm that has been used to solve the famous leetcode problem [valid sudoku](https://leetcode.com/problems/valid-sudoku/description/) has been used to check weather the number inserted at a certain position is valid or not.
 
 ## Features
 
 - Interactive Sudoku board with a user-friendly interface.
-- Backtracking algorithm for solving Sudoku puzzles.
+- Constructive Valid Sudoku algorithm for solving Sudoku puzzles.
 - Dynamic updates using JavaScript for user interactions.
 - Stylish and responsive design with HTML and CSS.
 
